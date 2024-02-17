@@ -4,7 +4,7 @@ function Page1(){
 
     return (
         <div style={{minHeight: 100}}>
-            Page 1 Bob!
+            Page ONE from Bob the builder. 
         </div>
     );
 }
